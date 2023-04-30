@@ -1,8 +1,13 @@
-# Solution-of-The-C-Programming-Language
+# [Solution] The C Programming Language
 
-> Repo for storing code file of solution.
+> Repo for solutions of *The c Programming Language, Second Edition*.
 
-**State**
+## About The Book
+
+Author:
+ISBN:
+
+## Log
 
 - [x] To be continue
 - [ ] Completed
