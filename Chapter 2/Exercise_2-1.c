@@ -1,1 +1,2 @@
-/* Exercise 2-1: Write a program to determine the range of char, short, int, long variables, both signed and unsigned, by printing appropriate values from standard headers and by direct computation. Harder if you compute them: determine the range of the  various floating-point types. */
+/* Exercise 2-1: Write a program to determine the range of char, short, int, long variables, both signed and unsigned, by printing appropriate values from standard headers and by direct computation. Harder if you compute them: determine the range of the various floating-point types. */
+/* 练习 2-1: 编写一个程序确定有符号（signed）或无符号（unsigned）的字符型（char），短类型（short），整型（int），长类型（long）变量的范围，通过打印标准头文件中对应值或直接计算的方法实现。计算确定各种浮点类型的范围可能更难。 */
