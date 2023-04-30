@@ -1,6 +1,6 @@
 # [Solution] The C Programming Language
 
-> Repo for solutions of *The c Programming Language, Second Edition*.
+> Repo for solutions of *The C Programming Language, Second Edition*.
 
 ## About The Book
 
